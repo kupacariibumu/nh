@@ -1,1 +1,2 @@
+impression.appsflyer.com:443
 launches.appsflyersdk.com:443
