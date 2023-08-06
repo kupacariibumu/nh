@@ -1,2 +1,24 @@
 impression.appsflyer.com:443
 launches.appsflyersdk.com:443
+
+channel_tutorial
+ws ava.game.naver.com xl_flex channel_tutorial
+ws sogood.linefriends.com xl_flex
+ws 104.16.226.91 xl_vision
+ws api.visionplus.id xl_vision
+ws 104.21.235.171 xl_vision
+ws cdn.appsflyer.com xl_vision axis_game
+ws dev.sonymusicnews.pl xl_akrab
+ws 104.26.5.12 xl_akrab
+ws 104.18.20.226 xl_akrab
+ws 104.20.75.141 xl_akrab
+ws support-vpn-pro.opera.com xl_opera_mini
+ws 104.16.51.111 axis_tiktok
+ws tiktok1.zendeks.com axis_tiktok
+ws game18.multissh.com axis_game
+ws 104.16.109.96 axis_game
+ws 104.16.108.96 axis_game
+ws staging.games.axis.co.id axis_opok xl_opok
+ws api.ovo.id axis_opok xl_opok smartfren_opok
+ws media.ovo.id smartfren_opok
+ws 
