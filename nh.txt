@@ -21,4 +21,9 @@ ws 104.16.108.96 axis_game
 ws staging.games.axis.co.id axis_opok xl_opok
 ws api.ovo.id axis_opok xl_opok smartfren_opok
 ws media.ovo.id smartfren_opok
-ws 
+ws 104.16.85.20 tsel_ilped
+ws 104.17.79.107 tsel_ilped
+ws 104.18.3.2 tsel_ilped
+ws 104.16.66.85 tsel_ilped
+ws 104.26.7.171 tsel_ilped
+ws 104.16.51.111 tsel_ilped
