@@ -1,0 +1,3 @@
+
+sni_payload tls_tunnel [method] wss://[host] [protocol][crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]
+HEAD http://GARENA.com/ HTTP/1.1[lf]Host: c.whatsapp.net[lf]Host: c.whatsapp.net[lf]Connection: Keep-Alive[lf][host][lf][lf][split][raw][netData][lf][split][raw][lf][lf]nUser-Agent: \r\n\r\nHTTPProxy-Connection: Keep-Alive\r\n\r\n
